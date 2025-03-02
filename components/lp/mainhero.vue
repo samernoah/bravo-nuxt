@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="right">
-            <img class="hi" src="@/assets/pictures/heroi.png" alt="" srcset="">
+            <img class="hi" :src="himagem" alt="" srcset="">
             <div class="arcs">
                 <img class="arc arc1" src="~/assets/pictures/arc.svg" alt="" srcset="">
                 <img class="arc arc2" src="~/assets/pictures/arc.svg" alt="" srcset="">
@@ -46,8 +46,15 @@
 </template>
 
 <script>
+import himage from '@/assets/pictures/heroi.png'
+
 export default {
-    name: 'MainHero'
+    name: 'MainHero',
+    data() {
+        return {
+            himagem: himage
+        }
+    }
 }
 </script>
 
