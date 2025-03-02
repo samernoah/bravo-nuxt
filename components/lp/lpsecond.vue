@@ -6,29 +6,29 @@
         <div class="brands">
             <div class="sndlogo">
                 <div class="slogo">
-                    <img src="~assets\Pictures\sndlogo.svg" alt="">
+                    <img src="~public/Pictures/sndlogo.svg" alt="">
                 </div>
                 <div class="ssocials">
                     <div class="ssocialdivs">
-                        <img src="assets\Icons\fbcircle.svg" alt="Social 1">
+                        <img src="public/Icons/fbcircle.svg" alt="Social 1">
                     </div>
                     <div class="ssocialdivs">
-                        <img src="assets\Icons\squareinstagram.svg" alt="Social 2">
+                        <img src="public/Icons/squareinstagram.svg" alt="Social 2">
                     </div>
                     <div class="ssocialdivs">
-                        <img src="assets\Icons\x-twitter-brands.svg" alt="Social 3">
+                        <img src="public/Icons/x-twitter-brands.svg" alt="Social 3">
                     </div>
                     <div class="ssocialdivs">
-                        <img src="assets\Icons\linkedin-brands.svg" alt="Social 4">
+                        <img src="public/Icons/linkedin-brands.svg" alt="Social 4">
                     </div>
                 </div>
                 <vl class="vline"/>  
             </div>
             <div class="brandslogos">
-                <img src="assets\Pictures\zain.png" alt="Brand 1">
-                <img src="assets\Pictures\MTN.png" alt="Brand 2">
-                <img src="assets\Pictures\Sudani.png" alt="Brand 3">
-                <img src="assets\Pictures\ding.png" alt="Brand 4">
+                <img src="public/Pictures/zain.png" alt="Brand 1">
+                <img src="public/Pictures/MTN.png" alt="Brand 2">
+                <img src="public/Pictures/Sudani.png" alt="Brand 3">
+                <img src="public/Pictures/ding.png" alt="Brand 4">
             </div>
         </div>
     </div>

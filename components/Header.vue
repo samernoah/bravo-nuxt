@@ -1,7 +1,7 @@
 <template>
     <header >
         <div class="logo">
-            <img class="lgo" src="@/assets/Pictures/Logo.svg" alt="">
+            <img class="lgo" src="/public/Pictures/Logo.svg" alt="">
         </div>
 
         <Navlinks ></Navlinks>

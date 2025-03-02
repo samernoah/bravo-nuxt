@@ -9,7 +9,6 @@
         </ul>
         <button class="langbutton"> العربية</button>
     </nav>
-       
 </template>
 
 <script>
