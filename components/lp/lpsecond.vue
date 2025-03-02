@@ -52,7 +52,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "~/assets/scss/_colors.scss";
+
 .lpsecond {
     height: 40vh;
     background-color: #e7e5f2;
@@ -124,7 +124,7 @@ export default {
 }
 
 h3{
-    color:$p6;
+    color:#342E5A;
     font-size: 1.8rem;
     font-weight: 500;
 }
