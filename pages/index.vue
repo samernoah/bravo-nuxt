@@ -30,6 +30,6 @@
 </script>
 
 <style lang="scss" scoped>
-@import "~/assets/scss/_main.scss";
+
 
 </style>
