@@ -79,5 +79,6 @@ export default {
     line-height: 30px;
     width: 60%;
     margin: 0 auto;
+    
 }
 </style>
