@@ -26,10 +26,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-    @import '~/assets/scss/colors.scss';
+   
     header {
         position: absolute;
-        background-color: $p5;
+        background-color: #413A70;
         width: 100%;
         height: 12vh;
         top: 0;
